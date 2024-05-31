@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Akand-Farhana
 - 👀 I’m interested in Analysing Data
 - 🌱 I’m currently learning Python, SQL, R
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on project
 - 📫 How to reach me +351 9202556522
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I am open to take advice and I am a good listener
